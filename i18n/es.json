@@ -1,0 +1,16 @@
+{
+  "title": "Master Express.js and have fun!",
+  "subtitle" : "\u001b[23mSelecciona un ejercicio y pulsa\u001b[3mEnter\u001b[23m para empezar",
+  "common": {
+    "exercise": {
+      "fail": {
+        "connection": "Error conectando a {{{address}}}: {{{message}}}"
+      }
+    }
+  },
+  "exercise": {
+  "good_old_form": {
+      "source": "Express.js rocks!"
+}
+  }
+}
