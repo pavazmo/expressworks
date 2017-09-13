@@ -37,6 +37,7 @@ You might want to download [the free Express.js cheatsheet](https://gumroad.com/
 * Traditional Chinese
 * Korean
 * Japanese
+* Spanish
 
 ## Contributors
 
